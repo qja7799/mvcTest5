@@ -10,7 +10,7 @@
 <body>
 <p><br/></p>
 <div class="container">
-  <h2 class="text-center">게시판 리스트 연습</h2>
+  <h2 class="text-center">게시판 리스트 연습2</h2>
   <br/>
   <div class="mb-2"><a href="boardinput" class="btn btn-success">글쓰기</a></div>
   <div class="mb-2"><a href="/mvcTest5" class="btn btn-success">돌아가기</a></div>
